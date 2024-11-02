@@ -1,3 +1,3 @@
 <h1>
-HomeAssistant България
+Home Assistant България
 </h1>
