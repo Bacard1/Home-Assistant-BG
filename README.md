@@ -23,5 +23,4 @@
 ### Снимки от моят "Home Assistant":
 
 | ![image](https://github.com/user-attachments/assets/c0aa838d-1254-4fec-b54f-724e8a331a81) | ![image](https://github.com/user-attachments/assets/18d63240-3ce3-438b-826e-0aa0712fdc33)
-
 |:-----------------:|:-----------------:|
