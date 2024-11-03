@@ -4,7 +4,7 @@
 
 ##  Хардуерна подготовка:
 
-- Инсталиран и конфигуриран Home Assistant OS на хардуер или виртуализатор е без значение. Ато не сте готови с тази стъпка погледни [ТУК](https://www.home-assistant.io/installation/)
+- Инсталиран и конфигуриран Home Assistant OS на хардуер или като виртуална машина е без значение. Ато не сте готови с тази стъпка погледни [ТУК](https://www.home-assistant.io/installation/)
 
 
     - В този проект беше използван "RaspberryPi 4B 8GB":
@@ -26,12 +26,12 @@
 
 ##  Софтуерна подготовка:
 
-- **Обновяване на Firmware в "SONOFF Zigbee 3.0 USB Dongle Plus":** въпреки че "SONOFF Zigbee 3.0 USB Dongle Plus" съвсем нов обновяването на Firmware е задължително. Така избягвате не-желани проблеми със съвместимостта с добавки или устройства. Софтуерът за флашването на Zigbee и хранилището със съвместим Firmware, така и драйвърите, ще намерите по долу.
+- **Обновяване на Firmware в "SONOFF Zigbee 3.0 USB Dongle Plus":** въпреки че "SONOFF Zigbee 3.0 USB Dongle Plus" съвсем нов обновяването на Firmware е задължително. Така избягвате не-желани проблеми със съвместимостта с добавки или устройства. Софтуерът за флашването на Zigbee и хранилището със съвместим Firmware, така и драйверите, ще намерите по долу.
     - [Флаш софтуер:](https://zig-star.com/radio-docs/zigstar-multi-tool/#nvram-tools) работи с всички видове Zigbee Dongle
-    - [Firmware cordinator:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) това е основният оправляващ Dongle (който е свързан към хардуерът).
+    - [Firmware cordinator:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) това е основният управляващ Dongle (който е свързан към хардуерът).
     - [Firmware router:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/router/Z-Stack_3.x.0/bin) това ще ви потрябва, ако искате да направите Dongle, който да помага със сигнал на основният Dongle.
     - [Драивъри:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) VCP Drivers
-    - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официялната документация от SONOFF
+    - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официалната документация от SONOFF
 
 <p></p><br>
 
@@ -50,7 +50,7 @@
     ![image](https://github.com/user-attachments/assets/f950e020-0fc3-42c4-8ab6-977cc5536a72)
 
 
-    - След инсталиране на добавката отидете на Добавката "Mosquitto broker", слет това в конфигурация и преминете в режим "Редактирае в YAML" и поставете следният код:
+    - След стартирането на системата отворете конфигурацията на "Mosquitto broker" и преминете в режим "Редактиране в YAML". Заменете всичко с този код:
 
     ```html
     logins:
@@ -71,9 +71,8 @@
     На "server" попълнете IP адресът на устройството където е инсталиран Home Assistant.
 
 
-    <br>
 
-    - Добавете следните редове е secrets.yaml
+    - Добавете следните редове е "secrets.yaml". Ако това не бъде направено то конфигурацията неможе да бъде валидна.
 
     ```html
     # MQTT login daten
@@ -81,7 +80,7 @@
     mqtt_pass: _____________
     ```
 
-    Попълнете предпочитаните от Вас потребителско име и праола с който да се свързвате с MQTT. Запазете промените и стартирайте "Mosquitto broker". Уверете се че "Mosquitto broker" е стартирал успешно и продължете с инсталацията на "Zigbee2MQTT"
+    Попълнете предпочитаните от Вас потребителско име и парола  с тях ще се свързвате с MQTT. Запазете промените и стартирайте "Mosquitto broker". Уверете се че "Mosquitto broker" е стартирал успешно и продължете с инсталацията на "Zigbee2MQTT"
 
 <br>
 
