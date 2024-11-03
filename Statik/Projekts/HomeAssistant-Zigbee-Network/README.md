@@ -7,7 +7,7 @@
 
 | В този проект беше използван "RaspberryPi 4B 8GB" | 
 |:--------------------:|
-| <img align="center" src="../../IMG/Devices/RASP PI 4B.png"" alt="" width="50% height="50%">  |
+| <img align="center" src="../../IMG/Devices/RASP PI 4B.png" width="50%" height="50%">  |
 
 <br>
 
@@ -19,7 +19,7 @@
 
 | В този проект беше използван SONOFF Zigbee 3.0 USB Dongle Plus: | 
 |:--------------------:|
-| <img align="center" src="../../IMG/Devices/Sonoff zigbee3.0 Dongel.png" alt="" width="120%" height="90%">  |
+| <img align="center" src="../../IMG/Devices/Sonoff zigbee3.0 Dongel.png" width="120%" height="90%">  |
 
 <br>
 
