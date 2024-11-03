@@ -30,6 +30,7 @@
     - [Драивъри:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) първоначално изтеглете и инсталирайте VCP Drivers на устройство с Windows или MAC, след което рестартирайте операционната система.
     - [Флаш софтуер:](https://zig-star.com/radio-docs/quick-start/#5have-fun) изтеглете ZigStar и свържете "SONOFF Zigbee 3.0 USB Dongle Plus" към някой от USB портовете.
     - [Firmware cordinator:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) изтеглете най новата версия и я добавете във ZigStar. Виж по долу на картината:
+        ![image](https://github.com/user-attachments/assets/340206c9-767e-4a19-881d-207f9c098dc4)
 
     - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официалната документация от SONOFF
 
