@@ -24,7 +24,6 @@
 
 <img align="center" src="../../IMG/Devices/Sonoff zigbee3.0 Dongel.png" width="50%" height="50%">
 
-<br>
 
 - **!!!ПРЕПОРАЧИТЕЛНО!!!:** Използвайте  "SONOFF Zigbee 3.0 USB Dongle Plus" със USB удължител. Причината е че всички Zigbee 3.0 USB Dongle се влияят от работата на хардуера и създава проблеми на мрежата! Ако се колебаете какъв да изберете погледнете линкът по доло.
     - [Aliexpress](https://de.aliexpress.com/item/1005007442670601.html?spm=a2g0o.order_list.order_list_main.75.6e4f5c5f9wWYJ0&gatewayAdapt=glo2deu)
