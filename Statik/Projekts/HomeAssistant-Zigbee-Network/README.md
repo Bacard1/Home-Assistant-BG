@@ -45,25 +45,21 @@
 <a href="https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_mosquitto">
     <img align="center" src="../../IMG/Andere/button ADD-ON ON.svg" >
 </a>
+    - След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML".
 
-<br>
-<p>
-    - След инсталиране на добавката вървете на конфигурация и преминете в режим   "Редактирае в YAML".
-</p>
-
-    logins:
-        - username: "!secret mqtt_user"
-          password: "!secret mqtt_pass"
-    require_certificate: true
-    certfile: cer.pem
-    keyfile: key.pem
-    customize:
-    active: false
-    folder: mosquitto
-    anonymous: false
-    server: mqtt://192.168.50.4:1883
-    base_topic: zigbee2mqtt
-    debug: true
+            logins:
+                - username: "!secret mqtt_user"
+                  password: "!secret mqtt_pass"
+            require_certificate: true
+            certfile: cer.pem
+            keyfile: key.pem
+            customize:
+            active: false
+            folder: mosquitto
+            anonymous: false
+            server: mqtt://192.168.50.4:1883
+            base_topic: zigbee2mqtt
+            debug: true
 
 - **Инсталиране на zigbee2mqtt в Home Assistant**
     - Натисни бутонът по долу за да добавиш хранилището на zigbee2mqtt в добавките си
