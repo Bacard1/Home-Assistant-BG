@@ -9,7 +9,7 @@
 
     - В този проект беше използван "RaspberryPi 4B 8GB"
 
-<img align="center" src="../../IMG/Devices/RASP PI 4B.png"а width="50%" height="50%">
+<img align="center" src="../../IMG/Devices/RASP PI 4B.png" width="50%" height="50%">
 
 <img align="center" src="../../IMG/Devices/RASP PI 4B.png" alt="Алтернативен текст" width="30%" height="30%">
 
