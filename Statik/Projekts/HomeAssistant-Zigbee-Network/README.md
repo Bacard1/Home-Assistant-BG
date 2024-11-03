@@ -12,7 +12,6 @@
 
 <img align="center" src="../../IMG/Devices/RASP PI 4B.png" width="50%" height="50%">
 
-<br>
 
 - Закумен "SONOFF Zigbee 3.0 USB Dongle Plus" или друк, който да създава Zigbee мрежата. Ако все още не разполагате с такъв виж Двата линка по долу:
     - [Amazon](https://www.amazon.de/dp/B09KZX4WSB?ref=ppx_yo2ov_dt_b_fed_asin_title)
