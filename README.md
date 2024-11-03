@@ -56,7 +56,7 @@
     <img align="center" src="Statik/IMG/Andere/Бутон към целият проект.png" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 <a href="">
-    <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
+    <img align="center" src="Statik/IMG/Andere/Бутон към.png" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 </a>
 <a href="Statik/Link">
