@@ -41,4 +41,8 @@
     - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официялната документация от SONOFF
 
 
-<img align="center" src="../../IMG/Andere/button ADD ADD-ON REPOSITORY TO MY.svg" width="120%" height="90%">
+- **Инсталиране на zigbee2mqtt в Home Assistant**
+    - Натисни бутонът по долу за да добавиш хранилището на zigbee2mqtt в добавките си
+<a href="https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fzigbee2mqtt%2Fhassio-zigbee2mqtt">
+    <img align="center" src="../../IMG/Andere/button ADD ADD-ON REPOSITORY TO MY.svg" >
+</a>
