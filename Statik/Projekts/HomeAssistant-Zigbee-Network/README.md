@@ -124,4 +124,4 @@
 
     На "server:" трябва да добавиш същият ИП адрес който има и Home Assistant. На "port:" следвай стъпките по картинката по долу:
 
-    <img align="center" src="https://github.com/user-attachments/assets/bba5c5d6-bd2a-40fc-90ba-a4d1f123e7ff" width="90%" height="90%">
+    <img align="center" src="../../IMG/Andere/usb-port-homeassistant.png" width="90%" height="90%">
