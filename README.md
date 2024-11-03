@@ -49,7 +49,7 @@
 - Zigbee устройствата са ефтини.
 - Лесен ъпгрейд при натоварена мрежа.
 
-| Карта на Zigbee устройства | Карта на устройства в Zigbee2MQTT |
+| Карта на Zigbee устройства: | Карта на устройства в Zigbee2MQTT: |
 |:--------------------|:--------------------|
 | ![image](https://github.com/user-attachments/assets/c8c7f7ec-93f8-4f5f-9cc9-c2d30576c9d0)  | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
 
