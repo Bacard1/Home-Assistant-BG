@@ -47,7 +47,7 @@
 
 - **След инсталирането включете функцията "Стартиране при зареждане на системата" и рестартирайте Home Assistant.:**
 
-![image](https://github.com/user-attachments/assets/f950e020-0fc3-42c4-8ab6-977cc5536a72)
+    ![image](https://github.com/user-attachments/assets/f950e020-0fc3-42c4-8ab6-977cc5536a72)
 
 
     - След инсталиране на добавката отидете на Добавката "Mosquitto broker", слет това в конфигурация и преминете в режим "Редактирае в YAML" и поставете следният код:
