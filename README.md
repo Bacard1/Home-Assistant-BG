@@ -52,14 +52,14 @@
 |:--------------------|:--------------------|
 | ![image](https://github.com/user-attachments/assets/c8c7f7ec-93f8-4f5f-9cc9-c2d30576c9d0)  | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
 
-<a href="Statik/Link/HomeAssistant-Zigbee-Network">
+<a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
     <img align="center" src="Statik/IMG/Andere/Бутон към целият проект.png" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 <a href="">
     <img align="center" src="Statik/IMG/Andere/Бутон към.png" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 </a>
-<a href="Statik/Link">
+<a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
     <img align="center" src="Statik/IMG/Andere/Бутон към Zigbee2MQTT.png" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 
