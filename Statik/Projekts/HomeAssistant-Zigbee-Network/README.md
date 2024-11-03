@@ -19,7 +19,7 @@
 
 | В този проект беше използван SONOFF Zigbee 3.0 USB Dongle Plus: | 
 |:--------------------:|
-| <img align="center" src="../../IMG/Devices/Sonoff zigbee3.0 Dongel.png" width="90%" height="90%">  |
+| <img align="center" src="../../IMG/Devices/Sonoff zigbee3.0 Dongel.png" width="100%" height="90%">  |
 
 <br>
 
