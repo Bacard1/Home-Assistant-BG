@@ -63,3 +63,11 @@
 <a href="Statik/Link">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC%20%D1%86%D0%B5%D0%BB%D0%B8%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
 </a>
+
+
+
+<div style="text-align: center;">
+    <a href="Statik/Link">
+        <img src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC%20%D1%86%D0%B5%D0%BB%D0%B8%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.png?raw=true" alt="Алтернативен текст" width="30%">
+    </a>
+</div>
