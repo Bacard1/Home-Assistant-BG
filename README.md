@@ -38,9 +38,13 @@
 
 
 
-<h3 align="center"><strong>Zigbee мрежа </strong></h3>
+<h3 align="center"><strong>Създаване/Интегриране на Zigbee мрежа </strong></h3>
 
 ![image](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D1%83%D0%BA%D1%80%D0%B0%D1%81%D0%B0_001.png?raw=true)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c8c7f7ec-93f8-4f5f-9cc9-c2d30576c9d0)
 
 - ****
 - ****
