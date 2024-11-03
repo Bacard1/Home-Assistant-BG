@@ -5,7 +5,7 @@
 
 | Mоето устройство е RaspberryPi 4B 8GB: | 
 |:--------------------|
-| ![image](../../IMG/Devices/RASP PI 4B.png) |
+| ![image](../IMG/Devices/RASP PI 4B.png) |
 
 
 <br>
