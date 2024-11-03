@@ -41,9 +41,6 @@
 <h3 align="center"><strong>Създаване/Интегриране на Zigbee мрежа </strong></h3>
 
 ![image](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D1%83%D0%BA%D1%80%D0%B0%D1%81%D0%B0_001.png?raw=true)
-
-<br>
-
 - **Предимства на Zigbee мрежата:**
     - Не зависи от интернет. С добавката Zigbee2MQTT, HomeAssistant сам хоства и потдържа Zigbee устроиствата Ви.
     - Не натоварва допълнително основната интерет мрежа.
