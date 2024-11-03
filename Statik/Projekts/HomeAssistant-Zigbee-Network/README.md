@@ -48,10 +48,6 @@
 
     - След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML".
 
-asddasdda
-    code?
-
-
             logins:
             - username: "!secret mqtt_user"
                 password: "!secret mqtt_pass"
