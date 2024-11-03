@@ -100,4 +100,26 @@
 
     ![image](https://github.com/user-attachments/assets/5655390c-9c13-473c-b6b6-6993191648dc)
 
+    Отворете и инсталирайте Zigbee2MQTT, след което рестартирайте системата.
 
+    - След стартирането на системата отворете конфигурацията във Zigbee2MQTT и преминете в режим "Редактиране в YAML". Заменете всичко със следният код:
+
+    ```html
+    data_path: /config/zigbee2mqtt
+    socat:
+    enabled: false
+    master: pty,raw,echo=0,link=/tmp/ttyZ2M,mode=777
+    slave: tcp-listen:8485,keepalive,nodelay,reuseaddr,keepidle=1,keepintvl=1,keepcnt=5
+    options: "-d -d"
+    log: true
+    mqtt:
+    server: mqtt://_____________:1883  
+    user: "!secret mqtt_user"
+    password: "!secret mqtt_pass"
+    serial:
+    port: ______________________________________
+    ``` 
+
+    На "server:" трябва да добавиш същият ИП адрес който има и Home Assistant. На "port:" следвай стъпките по картинката по долу:
+
+    
