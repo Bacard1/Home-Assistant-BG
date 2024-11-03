@@ -91,5 +91,6 @@
             <img align="center" src="../../IMG/Andere/button ADD ADD-ON REPOSITORY TO MY.svg" >
         </a>
     - След добавяне на хранилището обновете страницата и ще намерите следното:
-    
+        ![image](https://github.com/user-attachments/assets/5655390c-9c13-473c-b6b6-6993191648dc)
+
 
