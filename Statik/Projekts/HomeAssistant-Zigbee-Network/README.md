@@ -89,7 +89,7 @@
     - Натисни бутонът по долу за да добавиш хранилището на Zigbee2MQTT в добавките си:
 
     <br>
-    <div style="margin-bottom: 20px;">
+    <div style="margin-bottom: 50px;">
         <a href="https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fzigbee2mqtt%2Fhassio-zigbee2mqtt">
             <img align="center" src="../../IMG/Andere/button ADD ADD-ON REPOSITORY TO MY.svg" >
         </a>
