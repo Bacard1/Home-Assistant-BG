@@ -5,7 +5,7 @@
 
 | Mоето устройство е RaspberryPi 4B 8GB: | 
 |:--------------------|
-| ![image](../IMG/Devices/RASP PI 4B.png) |
+| ![image](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Devices/RASP%20PI%204B.png?raw=true) |
 
 
 <br>
