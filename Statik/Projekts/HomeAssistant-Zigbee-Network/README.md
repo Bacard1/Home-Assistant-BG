@@ -41,8 +41,33 @@
     - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официялната документация от SONOFF
 
 
+- **Инсталиране на MQTT Broker в Home Assistant:** Ако все още нямате MQTT брокер щракни на бутонът долу
+<a href="https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_mosquitto">
+    <img align="center" src="../../IMG/Andere/button ADD-ON ON.svg" >
+</a>
+
+    - След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML".
+
+asddasdda
+    code?
+
+            logins:
+            - username: "!secret mqtt_user"
+                password: "!secret mqtt_pass"
+            require_certificate: true
+            certfile: cer.pem
+            keyfile: key.pem
+            customize:
+            active: false
+            folder: mosquitto
+            anonymous: false
+            server: mqtt://192.168.50.4:1883
+            base_topic: zigbee2mqtt
+            debug: true
+
 - **Инсталиране на zigbee2mqtt в Home Assistant**
     - Натисни бутонът по долу за да добавиш хранилището на zigbee2mqtt в добавките си
 <a href="https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fzigbee2mqtt%2Fhassio-zigbee2mqtt">
     <img align="center" src="../../IMG/Andere/button ADD ADD-ON REPOSITORY TO MY.svg" >
 </a>
+
