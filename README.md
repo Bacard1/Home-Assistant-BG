@@ -24,12 +24,12 @@
 <br>
 
 ### Снимки от моят "Home Assistant":
-| Начална страница    | Една от стаите      | Изскачащи прозорци в стаята |
+| Начална страница:    | Една от стаите:      | Изскачащи прозорци в стаята: |
 |:--------------------|:--------------------|:--------------------|
 | ![image](https://github.com/user-attachments/assets/c0aa838d-1254-4fec-b54f-724e8a331a81) | ![image](https://github.com/user-attachments/assets/18d63240-3ce3-438b-826e-0aa0712fdc33) | ![image](https://github.com/user-attachments/assets/7376a137-b84c-48b1-b314-85a92bc1495d) |
-| Shopllist с картинки | Интеграции които използвам | Zigbee мрежа |
+| Shopllist с картинки: | Интеграции които използвам: | Zigbee мрежа: |
 | ![image](https://github.com/user-attachments/assets/4841bfc5-3007-44a6-8944-828c92286d8d) | ![image](https://github.com/user-attachments/assets/85e188d6-8d55-46ad-871b-fb6422578cfa) | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
-| Добавки | Мониторинг | Натоварване хардуер |
+| Добавки: | Мониторинг: | Натоварване хардуер: |
 | ![image](https://github.com/user-attachments/assets/cb5b7ebb-7234-4821-9867-abe2de667ae3) | ![image](https://github.com/user-attachments/assets/39dbc905-90aa-4b76-8358-399418b98a6e) | ![image](https://github.com/user-attachments/assets/a2139e51-4ebe-4e87-bc3b-c17f58c0a6a9) |
 
 
@@ -50,11 +50,15 @@
 - Лесен ъпгрейд при натоварена мрежа.
 
 | Карта на Zigbee устройства | Карта на устройства в Zigbee2MQTT |
-|--------------------|--------------------|
+|:--------------------|:--------------------|
 | ![image](https://github.com/user-attachments/assets/c8c7f7ec-93f8-4f5f-9cc9-c2d30576c9d0)  | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
 
 <a href="Statik/Link">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC%20%D1%86%D0%B5%D0%BB%D0%B8%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
+</a>
+<a href="Statik/Link">
+    <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC%20Zigbee2MQTT.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
+</a>
 </a>
 <a href="Statik/Link">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC%20Zigbee2MQTT.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
