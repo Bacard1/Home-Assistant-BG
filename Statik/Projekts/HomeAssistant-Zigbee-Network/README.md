@@ -33,3 +33,8 @@
 
 ##  Софтуерна подготовка:
 
+- **Обновяване на Firmware в "SONOFF Zigbee 3.0 USB Dongle Plus":** въпреки че "SONOFF Zigbee 3.0 USB Dongle Plus" е закупен съвсем скоро обновяването на Firmware му е задължителен. Така ще избегнете не желани проблеми със съвместимостта със добавката или устройствата. Софтуерът за флашването на Zigbee и хранилището със съвместим Firmware, както и драйвърите необходими свързването с вашият компютър.
+    - Флаш софтуер[]()
+    - [Firmware cordinator](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin)
+    - [Firmware router](https://github.com/Koenkk/Z-Stack-firmware/tree/master/router/Z-Stack_3.x.0/bin)
+    - [Драивъри](https://sonoff.tech/wp-content/uploads/2022/03/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf)
