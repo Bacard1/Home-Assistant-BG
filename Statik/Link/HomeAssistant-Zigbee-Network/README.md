@@ -5,7 +5,7 @@
 
 | Mоето устройство е RaspberryPi 4B 8GB: | 
 |:--------------------|
-|![image](Statik/IMG/Devices/RASP PI 4B.png)
+| ![image](Statik/IMG/Devices/RASP PI 4B.png)
 
 
 <br>
@@ -16,7 +16,7 @@
 
 | Mоето устройство е RaspberryPi 4B 8GB: | 
 |:--------------------|
-|![image](Statik/IMG/Devices/Sonoff zigbee3.0 Dongel.png)
+| ![image](Statik/IMG/Devices/Sonoff zigbee3.0 Dongel.png)
 
 - Съвет!: Използвайте  "SONOFF Zigbee 3.0 USB Dongle Plus" със USB удължител. Причината е че всички Zigbee 3.0 USB Dongle се влияят от работата на хардуера и създава проблеми на мрежата! Ако се колебаете какъв да изберете погледнете линкът по доло.
     - [Aliexpress](https://de.aliexpress.com/item/1005007442670601.html?spm=a2g0o.order_list.order_list_main.75.6e4f5c5f9wWYJ0&gatewayAdapt=glo2deu)
