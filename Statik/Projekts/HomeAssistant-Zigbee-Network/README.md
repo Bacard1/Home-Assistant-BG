@@ -39,3 +39,6 @@
     - [Firmware router:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/router/Z-Stack_3.x.0/bin) това ще ви потрябва ако искате да направите Dongle който да помага със сигнал на основният Dongle.
     - [Драивъри:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) VCP Drivers
     - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официялната документация от SONOFF
+
+
+<img align="center" src="../../IMG/Andere/button ADD ADD-ON REPOSITORY TO MY.svg" width="120%" height="90%">
