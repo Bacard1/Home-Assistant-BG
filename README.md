@@ -34,7 +34,7 @@
 
 
 <br>
-<h1 align="center" color="red;">Проекти</h1>
+<h1 align="left" color="red;">Проекти:</h1>
 
 
 
