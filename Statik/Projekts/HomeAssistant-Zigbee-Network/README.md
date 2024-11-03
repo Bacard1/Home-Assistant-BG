@@ -40,6 +40,7 @@
     - [Драивъри:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) VCP Drivers
     - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официялната документация от SONOFF
 
+<p></p><br>
 
 - **Инсталиране на MQTT Broker в Home Assistant:** Ако все още нямате MQTT брокер щракни на бутонът долу
 
@@ -51,22 +52,25 @@
 
 <p></p><br>
 
-- **След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML":** попълнете желаните потребителско име и парола с които ще се свързвате с MQTT, а на "server" попълнете IP адресът на устройството където е инсталиран Home Assistant. Запазете промените и стартирайте MQTT Broker.
+- **След инсталирането рестартирайте Home Assistant.**
 
-        logins:
-            - username: "_________________"
-              password: "_________________"
-        require_certificate: false
-        certfile: cer.pem
-        keyfile: key.pem
-        customize:
-        active: false
-        folder: mosquitto
-        anonymous: false
-        server: mqtt://_________________:1883
-        base_topic: zigbee2mqtt
-        debug: true
-
+    - **След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML":** попълнете желаните потребителско име и парола с които ще се свързвате с MQTT, а на "server" попълнете IP адресът на устройството където е инсталиран Home Assistant. Запазете промените и стартирайте MQTT Broker.
+    
+```html
+logins:
+    - username: "_________________"
+      password: "_________________"
+require_certificate: false
+certfile: cer.pem
+keyfile: key.pem
+customize:
+active: false
+folder: mosquitto
+anonymous: false
+server: mqtt://_________________:1883
+base_topic: zigbee2mqtt
+debug: true
+```
 <br>
 
 - **Инсталиране на zigbee2mqtt в Home Assistant**
