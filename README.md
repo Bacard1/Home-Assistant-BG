@@ -37,6 +37,7 @@
 <h1 align="center" color="red;">Проекти</h1>
 
 
+![image](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D1%83%D0%BA%D1%80%D0%B0%D1%81%D0%B0%20%D0%BA%D1%80%D0%B0%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20readme%20.png?raw=true)
 
 <h3 align="center"> Zigbee мрежа </h3>
 
