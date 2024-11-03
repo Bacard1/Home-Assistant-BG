@@ -51,21 +51,23 @@
 
 <p></p><br>
 
-- След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML".
+- **След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML":** попълнете желаните потребителско име и парола с които ще се свързвате с MQTT, а на "server" попълнете IP адресът на устройството където е инсталиран Home Assistant. Запазете промените и стартирайте MQTT Broker.
 
         logins:
-            - username: "!secret mqtt_user"
-              password: "!secret mqtt_pass"
-        require_certificate: true
+            - username: "_________________"
+              password: "_________________"
+        require_certificate: false
         certfile: cer.pem
         keyfile: key.pem
         customize:
         active: false
         folder: mosquitto
         anonymous: false
-        server: mqtt://192.168.50.4:1883
+        server: mqtt://_________________:1883
         base_topic: zigbee2mqtt
         debug: true
+
+<br>
 
 - **Инсталиране на zigbee2mqtt в Home Assistant**
     - Натисни бутонът по долу за да добавиш хранилището на zigbee2mqtt в добавките си
