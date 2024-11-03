@@ -29,7 +29,7 @@
 - **Обновяване на Firmware в "SONOFF Zigbee 3.0 USB Dongle Plus":** въпреки че "SONOFF Zigbee 3.0 USB Dongle Plus" съвсем нов обновяването на Firmware е задължително. Така избягвате не-желани проблеми със съвместимостта с добавки или устройства. Софтуерът за флашването на Zigbee и хранилището със съвместим Firmware, така и драйвърите, ще намерите по долу.
     - [Флаш софтуер:](https://zig-star.com/radio-docs/zigstar-multi-tool/#nvram-tools) работи с всички видове Zigbee Dongle
     - [Firmware cordinator:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0/bin) това е основният оправляващ Dongle (който е свързан към хардуерът).
-    - [Firmware router:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/router/Z-Stack_3.x.0/bin) това ще ви потрябва ако искате да направите Dongle който да помага със сигнал на основният Dongle.
+    - [Firmware router:](https://github.com/Koenkk/Z-Stack-firmware/tree/master/router/Z-Stack_3.x.0/bin) това ще ви потрябва, ако искате да направите Dongle, който да помага със сигнал на основният Dongle.
     - [Драивъри:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) VCP Drivers
     - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официялната документация от SONOFF
 
