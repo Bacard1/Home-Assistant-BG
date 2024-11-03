@@ -1,5 +1,7 @@
 <h1 align="center">Създаване/Интегриране на Zigbee мрежа в Home Assistant</h1>
 
+<br>
+
 ##  Хардуерна подготовка:
 - Инсталиран и конфигуриа Home Assistant OS на хардуер или виртуализатор е без значение. Ато не сте готови с тази стъпка погледни [ТУК](https://www.home-assistant.io/installation/)
 
