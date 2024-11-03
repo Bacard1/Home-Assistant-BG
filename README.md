@@ -32,3 +32,14 @@
 | Добавки | Мониторинг | Натоварване хардуер |
 | ![image](https://github.com/user-attachments/assets/cb5b7ebb-7234-4821-9867-abe2de667ae3) | ![image](https://github.com/user-attachments/assets/39dbc905-90aa-4b76-8358-399418b98a6e) | ![image](https://github.com/user-attachments/assets/a2139e51-4ebe-4e87-bc3b-c17f58c0a6a9) |
 
+
+<br>
+<h1 align="center" color="red">Проекти</h1>
+
+### Zigbee мрежа
+
+![image](https://github.com/user-attachments/assets/22581389-9987-451c-a8ec-97aa397a4b41)
+
+- ****
+- ****
+- ****
