@@ -124,5 +124,5 @@
 
     На "server:" трябва да добавиш същият ИП адрес който има и Home Assistant. На "port:" следвай стъпките по картинката по долу:
 
-    ![image](https://github.com/user-attachments/assets/b7c6cbb1-45f7-4677-b70c-9a3e98c31da5)
+    ![image](https://github.com/user-attachments/assets/b2dba896-27bc-49f9-bbf5-50bf74816343)
 
