@@ -6,11 +6,9 @@
 
 - Инсталиран и конфигуриа Home Assistant OS на хардуер или виртуализатор е без значение. Ато не сте готови с тази стъпка погледни [ТУК](https://www.home-assistant.io/installation/)
 
-<br>
 
-В този проект беше използван "RaspberryPi 4B 8GB":
-
-<img align="center" src="../../IMG/Devices/RASP PI 4B.png" width="50%" height="50%">
+    - В този проект беше използван "RaspberryPi 4B 8GB":
+    <img align="center" src="../../IMG/Devices/RASP PI 4B.png" width="50%" height="50%">
 
 
 - Закумен "SONOFF Zigbee 3.0 USB Dongle Plus" или друк, който да създава Zigbee мрежата. Ако все още не разполагате с такъв виж Двата линка по долу:
