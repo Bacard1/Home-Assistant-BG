@@ -52,7 +52,7 @@
 | Karta na Zigbee устройства | Карта на устройства в Zigbee2MQTT |
 |--------------------|--------------------|
 | ![image](https://github.com/user-attachments/assets/c8c7f7ec-93f8-4f5f-9cc9-c2d30576c9d0)  | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
-| [![Алтернативен текст](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC%20%D1%86%D0%B5%D0%BB%D0%B8%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.png?raw=true)](/Statik/IMG)] |   |
+| [![Алтернативен текст](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/%D0%91%D1%83%D1%82%D0%BE%D0%BD%20%D0%BA%D1%8A%D0%BC%20%D1%86%D0%B5%D0%BB%D0%B8%D1%8F%D1%82%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.png?raw=true)](Statik/Link)] |   |
 
 ### 
 - ****
