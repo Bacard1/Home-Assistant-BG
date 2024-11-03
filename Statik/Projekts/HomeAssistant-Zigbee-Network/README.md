@@ -58,8 +58,14 @@
 
 
 ```markdown
+<<<<<<< HEAD
+**Заглавие: Пример за HTML код**  
+```
+
+=======
 **Заглавие: Пример за HTML код**    
 
+>>>>>>> d80095e8422556e2d0941f67412eba4f122bdf24
 ```html
 logins:
     - username: "_________________"
@@ -75,6 +81,7 @@ server: mqtt://_________________:1883
 base_topic: zigbee2mqtt
 debug: true
 ```
+
 <br>
 
 - **Инсталиране на zigbee2mqtt в Home Assistant**
