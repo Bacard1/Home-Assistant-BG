@@ -42,9 +42,14 @@
 
 
 - **Инсталиране на MQTT Broker в Home Assistant:** Ако все още нямате MQTT брокер щракни на бутонът долу
+
+<br>
+
 <a href="https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_mosquitto">
     <img align="center" src="../../IMG/Andere/button ADD-ON ON.svg" >
 </a>
+
+<br>
     - След инсталиране на добавката вървете на конфигурация и преминете в режим "Редактирае в YAML".
 
             logins:
