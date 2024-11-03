@@ -48,7 +48,7 @@
     - Zigbee устроиствата сами по себе си са "Рутери" и удължават сигнала на мрежата.
     - Zigbee устроиствата са ефтини.
     - Лесен ъпгрейд при натоварена мрежа.
-
+||
 |--------------------|--------------------|
 | ![image](https://github.com/user-attachments/assets/c8c7f7ec-93f8-4f5f-9cc9-c2d30576c9d0)  | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
 
