@@ -55,13 +55,7 @@
 <a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
 </a>
-<a href="">
-    <img align="center" src="Statik/IMG/Andere/Бутон към.png" alt="Алтернативен текст" width="30%" height="30%">
-</a>
-</a>
-
-
-<a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
+<a href="https://www.zigbee2mqtt.io/devices/ZBDongle-E.html">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BE%D1%89%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 
