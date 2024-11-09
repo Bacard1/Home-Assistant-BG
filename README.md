@@ -53,7 +53,7 @@
 | ![image](https://github.com/user-attachments/assets/c8c7f7ec-93f8-4f5f-9cc9-c2d30576c9d0)  | ![image](https://github.com/user-attachments/assets/fe2ebfec-5623-446c-8a3c-8a5f1feacf0a) |
 
 <a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
-    <img align="center" src="Statik/IMG/Andere/Бутон към целият проект.png" alt="Алтернативен текст" width="30%" height="30%">
+    <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 <a href="">
     <img align="center" src="Statik/IMG/Andere/Бутон към.png" alt="Алтернативен текст" width="30%" height="30%">
