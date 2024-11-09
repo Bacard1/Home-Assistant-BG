@@ -128,4 +128,4 @@
 
     Запамети промените, отметнете добавката да стартира автоматично и стартирайте добавката:
 
-    <img align="center" src="../../IMG/GIF/patch_usb_port002.gif">    
+    <img align="center" src="../../IMG/GIF/Zegbee_save_and_start.gif">    
