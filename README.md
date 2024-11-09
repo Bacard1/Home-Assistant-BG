@@ -61,7 +61,7 @@
 
 <h1></h1>
 
-<h3 align="center"><strong>Списък за пазаруване</strong></h3>
+<h3 align="center"><strong>Списък за пазаруване с изображения</strong></h3>
 
 ![image](Statik/IMG/Andere/украса_002.png)
 ### Предимствата на този списък за пазаруване:
