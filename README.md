@@ -47,6 +47,8 @@
 - Zigbee устройствата сами по себе си са "Рутери" и удължават сигнала на мрежата.
 - Zigbee устройствата са ефтини.
 - Лесен ъпгрейд при натоварена мрежа.
+
+![image](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Zigbee_Network.gif?raw=true)
   
 <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
 
