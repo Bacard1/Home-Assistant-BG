@@ -48,7 +48,7 @@
 - Zigbee устройствата са ефтини.
 - Лесен ъпгрейд при натоварена мрежа.
   
-<img align="center" src="(https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="30%" height="30%">
+<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="30%" height="30%">
 
 <a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="30%" height="30%">
