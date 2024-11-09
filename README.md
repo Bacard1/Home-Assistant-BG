@@ -63,29 +63,29 @@
 
 <a href="#" class="myButton">Към проекта</a>
 
-.myButton {
-	box-shadow: -1px 2px 0px 2px #9fb4f2;
-	background:linear-gradient(to bottom, #2e7bff 5%, #4297ff 100%);
-	background-color:#2e7bff;
-	border-radius:33px;
-	border:3px solid #4e6096;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:28px;
-	padding:9px 76px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #283966;
-}
-.myButton:hover {
-	background:linear-gradient(to bottom, #4297ff 5%, #2e7bff 100%);
-	background-color:#4297ff;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
-}
+	.myButton {
+		box-shadow: -1px 2px 0px 2px #9fb4f2;
+		background:linear-gradient(to bottom, #2e7bff 5%, #4297ff 100%);
+		background-color:#2e7bff;
+		border-radius:33px;
+		border:3px solid #4e6096;
+		display:inline-block;
+		cursor:pointer;
+		color:#ffffff;
+		font-family:Arial;
+		font-size:28px;
+		padding:9px 76px;
+		text-decoration:none;
+		text-shadow:0px 1px 0px #283966;
+	}
+	.myButton:hover {
+		background:linear-gradient(to bottom, #4297ff 5%, #2e7bff 100%);
+		background-color:#4297ff;
+	}
+	.myButton:active {
+		position:relative;
+		top:1px;
+	}
 
 <a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
     <img align="center" src="Statik/IMG/Andere/Бутон към Zigbee2MQTT.png" alt="Алтернативен текст" width="30%" height="30%">
