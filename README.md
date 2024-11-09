@@ -59,6 +59,7 @@
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BE%D1%89%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.png?raw=true" alt="Още информация" width="40%" height="40%">
 </a>
 
+<h1></h1>
 
 <h3 align="center"><strong>Списък за пазаруване</strong></h3>
 
