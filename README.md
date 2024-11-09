@@ -58,3 +58,24 @@
 <a href="https://www.zigbee2mqtt.io/devices/ZBDongle-E.html">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BE%D1%89%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.png?raw=true" alt="Още информация" width="40%" height="40%">
 </a>
+
+
+<h3 align="center"><strong>Списък за пазаруване</strong></h3>
+
+![image](Statik/IMG/Andere/украса_002.png)
+### Предимствата на този списък за пазаруване:
+- Бързао намиране на артикулите в отделните категории.
+- Лесно ориентиране с картини на артикулите.
+- Уведомяване на сленовете в домакинството за наличие на нов артикул в списъка.
+- Автоматично изчистване на вече отметнатите артикули.
+  
+<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Projekt_shoplist.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
+
+<a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
+    <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="40%" height="40%">
+</a>
+
+
+<a href="https://github.com/Bacard1/Home-Assistant-Shoplist.git">
+    <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BE%D1%89%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.png?raw=true" alt="Още информация" width="40%" height="40%">
+</a>
