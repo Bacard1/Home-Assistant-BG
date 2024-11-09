@@ -62,7 +62,7 @@
 
 
 <a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
-    <img align="center" src="Statik/IMG/Andere/Бутон към Zigbee2MQTT.png" alt="Алтернативен текст" width="30%" height="30%">
+    <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BE%D1%89%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.png?raw=true" alt="Алтернативен текст" width="30%" height="30%">
 </a>
 
 
