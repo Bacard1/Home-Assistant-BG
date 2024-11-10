@@ -72,7 +72,7 @@
   
 <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Projekt_shoplist.gif?raw=true"  alt="Списък за пазаруване" width="100%" height="90%">
 
-<a href="https://github.com/Bacard1/Home-Assistant-Shoplist.git">
+<a href="https://github.com/Bacard1/HomeAssistant-Bulgaria/tree/main/Statik/Projekts/Home-Assistant-Shoplist">
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="40%" height="40%">
 </a>
 
