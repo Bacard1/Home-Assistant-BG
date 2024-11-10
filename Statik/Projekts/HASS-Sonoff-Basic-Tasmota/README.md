@@ -1,1 +1,1 @@
-<h1 align="center"><strong>TASMOTA - интеграция в Home Assistant и кракване на устройства</strong></h1>
+<h1 align="center">TASMOTA - интеграция в Home Assistant и кракване на устройства</h1>
