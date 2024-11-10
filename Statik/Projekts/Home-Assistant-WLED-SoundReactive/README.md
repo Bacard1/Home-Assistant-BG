@@ -11,3 +11,12 @@
     - **ESP32 DEV:** моделът не е от много голямо значение в този проект беше използван ["ESP32 WROOM-32 Entwicklungsboard TYPE-C CH340C/ CP2102" ](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) 
 
     <img align="center" src="IMG/ESP WROMM 32.png"  alt="Списък за пазаруване" width="35%" height="35%">
+
+    - **ESP32 Adapter:** Предимствата на този ["Terminal Adapter"](https://www.amazon.de/dp/B0CRVHJ9GB?ref=ppx_yo2ov_dt_b_fed_asin_title) са мното, ето и някой от тях.:
+        - Не е необходимо запояване, а всъщност е здраво и стъбилно.
+        - Не се налага да програмирате ["ESP32 WROOM-32 Entwicklungsboard TYPE-C CH340C/ CP2102" ](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) на място, а след програмирането просто го поставяте.
+        - Възможност за тестване с повече от един чип (докато всичко си работи можете да си поиграете с настроиките върху др. чип и просто да ги размените).
+        - Предотвратява допир на два пина.
+    <img align="center" src="IMG/EESP-adapter.png"  alt="Списък за пазаруване" width="35%" height="35%">
+
+    
