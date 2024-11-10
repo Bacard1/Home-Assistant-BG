@@ -46,6 +46,6 @@
 
         <img align="center" src="IMG/kleme.png"  alt="клемореди" width="35%" height="35%">
         <img align="center" src="IMG/LED-kuplung.png"  alt="LED-конектори" width="35%" height="35%">
-        <img align="center" src="IMG/cabel.png"  alt="кабели" width="35%" height="35%">
         <img align="center" src="IMG/alu-profile.png"  alt="ъглови алуминеви профили" width="35%" height="35%">
+        <img align="center" src="IMG/cabel.png"  alt="кабели" width="35%" height="35%">
     
