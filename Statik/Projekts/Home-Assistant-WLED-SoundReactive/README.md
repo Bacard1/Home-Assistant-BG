@@ -58,3 +58,9 @@
 
 # :alien: Софтуер: 
 
+- **Инсталиране на WLED:** WLED e уеб сървър за управление на NeoPixel (WS2812B, WS2811, SK6812) светодиоди или също SPI базирани чипсети като WS2801 и APA102! Свържете [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) към произволен USB порт на машина с Windows/Linux/MAC за да инсталирате WLED уеб сървър.
+    - [Драивър VCP Drivers:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads).
+    - [Флаш софтуер:](https://github.com/xyzroe/ZigStarGW-MT/releases/).: 
+
+
+    - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официалната документация от SONOFF
