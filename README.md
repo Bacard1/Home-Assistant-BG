@@ -103,6 +103,7 @@
 - Пълен контрол над устройството.
 - Контролът върху устройството не зависи от връзката му с интернет.
 - Мигновенна реакция през TASMOTA, Home Assistant и Alexa.
+- Не натоварва интернет мрежата.
   
     <img align="center" src="Statik\Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 
