@@ -88,4 +88,6 @@
     <img align="center" src="../../IMG/Andere/button ADD INTEGRATION TO.svg" alt="Още информация" width="40%" height="40%">
 </a>
 
+<br>
+
 :warning:Ако "Home Assistent" ви препоръча нова версия на WLED я пропоснете, в противен случай, ще загубите опциите си за настройване на микрофон.
