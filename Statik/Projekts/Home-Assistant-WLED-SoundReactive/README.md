@@ -65,4 +65,5 @@
       ![image](https://github.com/user-attachments/assets/13408dc0-d745-4e6b-a5a4-5e5dc43bf764)
 
     - [WEB Flash](https://tasmota.github.io/install/)
-    - [WLED уеб сървър:](https://github.com/bf8fc04e-13d6-475e-bba6-834a7e536a60)
+    - [WLED уеб сървър:](blob:https://github.com/bf8fc04e-13d6-475e-bba6-834a7e536a60)
+    - <a href="blob:https://github.com/bf8fc04e-13d6-475e-bba6-834a7e536a60"> WLED уеб сървър: </a>
