@@ -24,9 +24,11 @@
         <img align="center" src="IMG/ESP-adapter.png"  alt="Списък за пазаруване" width="35%" height="35%">
 
     - **Микрофон:** [MAX9814](https://www.amazon.de/dp/B0D3X6K7BW?ref=ppx_yo2ov_dt_b_fed_asin_title) е идеалният избор за този проект, но той може да бъде заменен и с друг вид.:
-    
+
     <img align="center" src="IMG/mic-MAX9814.png"  alt="Списък за пазаруване" width="35%" height="35%">
     
     :warning: Преди да включите захранването се уверете че кабелите водещи до микрофонът са точно както на схемата най горе и не контактуват помежду си. В противен слъчай микрофонът изгаря и става негоден за употреба. Можете да проверите това с мултицет. Четирите канала на микрофона не трябва да контактуват, ако те контактуват търсете проблемът в споиките или вече той е изгорял. 
+
+    - **Захранване:** [vusum Schalt-LED-Netzteil, 5-V-Netzteil, Transformator](https://de.aliexpress.com/item/1005005616440560.html?spm=a2g0o.order_list.order_list_main.4.133b5c5fQtV6NX&gatewayAdapt=glo2deu)
 
     
