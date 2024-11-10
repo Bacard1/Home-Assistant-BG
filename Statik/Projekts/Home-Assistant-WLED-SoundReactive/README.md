@@ -62,5 +62,7 @@
     - [Драивър VCP Drivers:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads).
     - [Флаш софтуер:](https://github.com/xyzroe/ZigStarGW-MT/releases/).: 
 
+      ![image](https://github.com/user-attachments/assets/13408dc0-d745-4e6b-a5a4-5e5dc43bf764)
+
 
     - [Документация:](https://sonoff.tech/wp-content/uploads/2022/11/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf) Официалната документация от SONOFF
