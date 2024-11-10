@@ -102,10 +102,10 @@
 ### Предимства WLED SoundReactiv:
 - асд
   
-    <img align="center" src="Statik\Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="40%" height="20%">
+    <img align="center" src="Statik\Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 
 <a href="Statik\Projekts\HASS-Sonoff-BASIC-Tasmota">
-    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="100%" height="100%">
+    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="40%" height="40%">
 </a>
 
 <h1></h1>
