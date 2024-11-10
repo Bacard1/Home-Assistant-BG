@@ -8,7 +8,7 @@
 :warning: На схемата не е показана дължината на лентата или броят на диодите, понеже това не е от значение.
 
 
-# Хардуер: 
+# :computer: Хардуер: 
 
 - **Компоненти:**
     - **ESP32 DEV:** моделът не е от много голямо значение в този проект беше използван ["ESP32 WROOM-32 Entwicklungsboard TYPE-C CH340C/ CP2102" ](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) 
@@ -56,4 +56,5 @@
 
 
 
-# Софтуер: 
+# :alien: Софтуер: 
+
