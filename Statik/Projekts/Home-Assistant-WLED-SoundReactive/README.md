@@ -38,7 +38,7 @@
 
         :warning:Да работи на 5 волта и мощността му да не е по-малка от тази на лед лентите които ще захранва. Както се вижда в обявата цената между 150W-350W не e много голяма. Моят съвет е да вземете максимално голямата мощност, понеже така или иначе ще изразходва само това което консумират LED-лентите а не повече.:
 
-    - **LED лента:** за този проект избрах [Individually Addressable Led Strip,5m 300Pixels 5V Led](https://www.amazon.de/gp/product/B0BFWL445D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1).:
+    - **LED лента:** за този проект избрах [Individually Addressable Led Strip,5m 300Pixels 5V Led](https://www.amazon.de/gp/product/B01CDTEG1O/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1).:
 
         <img align="center" src="IMG/LED.png"  alt="LED" width="35%" height="35%">
 
@@ -52,7 +52,7 @@
         <img align="center" src="IMG/alu-profile.png"  alt="ъглови алуминеви профили" width="35%" height="35%">
         <img align="center" src="IMG/cabel.png"  alt="кабели" width="35%" height="35%">
     
-### ⚠️ **Внимание:**  Внимавайте при закупъването на [LED лентата](https://www.amazon.de/gp/product/B0BFWL445D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) и  [Захранването](https://de.aliexpress.com/item/1005005616440560.html?spm=a2g0o.order_list.order_list_main.4.133b5c5fQtV6NX&gatewayAdapt=glo2deu) трябва да работят задължително на 5 Волта понеже и [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) работи на толкова. [Микрофонът](https://www.amazon.de/dp/B0D3X6K7BW?ref=ppx_yo2ov_dt_b_fed_asin_title) трябва да работи на 3 Волта или в този диапазон но не и повече от 5 Волта.
+### ⚠️ **Внимание:**  Внимавайте при закупъването на [LED лентата](https://www.amazon.de/gp/product/B01CDTEG1O/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) и  [Захранването](https://de.aliexpress.com/item/1005005616440560.html?spm=a2g0o.order_list.order_list_main.4.133b5c5fQtV6NX&gatewayAdapt=glo2deu) трябва да работят задължително на 5 Волта понеже и [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) работи на толкова. [Микрофонът](https://www.amazon.de/dp/B0D3X6K7BW?ref=ppx_yo2ov_dt_b_fed_asin_title) трябва да работи на 3 Волта или в този диапазон но не и повече от 5 Волта.
 
 
 
