@@ -81,8 +81,11 @@
 
         <img align="center" src="IMG/GIF/WLED-mic-config.gif"  alt="WLED-mic-config" width="100%" height="100%">
 
+<br>
 
 - **Home-Assistant integration:** 
 <a href="https://my.home-assistant.io/redirect/config_flow_start?domain=wled">
     <img align="center" src="../../IMG/Andere/button ADD INTEGRATION TO.svg" alt="Още информация" width="40%" height="40%">
 </a>
+
+:warning:Ако "Home Assistent" ви препоръча нова версия на WLED я пропоснете, в противен случай, ще загубите опциите си за настройване на микрофон.
