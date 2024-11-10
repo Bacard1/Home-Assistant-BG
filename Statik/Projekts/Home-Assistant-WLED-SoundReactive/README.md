@@ -7,7 +7,10 @@
 
 :warning: На схемата не е показана дължината на лентата или броят на диодите, понеже това не е от значение.
 
-- **Хардуер:**
+
+# Хардуер: 
+
+- **Компоненти:**
     - **ESP32 DEV:** моделът не е от много голямо значение в този проект беше използван ["ESP32 WROOM-32 Entwicklungsboard TYPE-C CH340C/ CP2102" ](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) 
 
     <img align="center" src="IMG/ESP WROMM 32.png"  alt="ESP WROMM 32" width="35%" height="35%">
@@ -50,3 +53,7 @@
         <img align="center" src="IMG/cabel.png"  alt="кабели" width="35%" height="35%">
     
 ## ⚠️ **Внимание:**  Внимавайте при закупъването на [LED лентата](https://www.amazon.de/gp/product/B0BFWL445D/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) и  [Захранването](https://de.aliexpress.com/item/1005005616440560.html?spm=a2g0o.order_list.order_list_main.4.133b5c5fQtV6NX&gatewayAdapt=glo2deu) трябва да работят задължително на 5 Волта понеже и [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) работи на толкова. [Микрофонът](https://www.amazon.de/dp/B0D3X6K7BW?ref=ppx_yo2ov_dt_b_fed_asin_title) трябва да работи на 3 Волта или в този диапазон но не и повече от 5 Волта.
+
+
+
+# Хардуер: 
