@@ -95,4 +95,4 @@
 </a>
 
 
-[def]: tatik\Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif
+[def]: Statik\Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif
