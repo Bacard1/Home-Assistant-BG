@@ -44,8 +44,8 @@
         
     - **Други:** за проекта бяха нужни и [LED-конектори](https://www.amazon.de/gp/product/B094NJLKFH/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) ,[кабели](https://www.amazon.de/gp/product/B08JTZKN4M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ,[ъглови алуминеви профили](https://www.amazon.de/gp/product/B0BG8L6D8Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) , [клемореди](https://de.aliexpress.com/item/1005006918394384.html?spm=a2g0o.order_list.order_list_main.151.133b5c5fQtV6NX&gatewayAdapt=glo2deu) 
 
-        <img align="center" src="IMG/LED-kuplung.png"  alt="LED-конектори" width="35%" height="35%">
-        <img align="center" src="IMG/alu-profile.png"  alt="ъглови алуминеви профили" width="35%" height="35%">
-        <img align="center" src="IMG/cabel.png"  alt="кабели" width="35%" height="35%">
         <img align="center" src="IMG/kleme.png"  alt="клемореди" width="35%" height="35%">
+        <img align="center" src="IMG/LED-kuplung.png"  alt="LED-конектори" width="35%" height="35%">
+        <img align="center" src="IMG/cabel.png"  alt="кабели" width="35%" height="35%">
+        <img align="center" src="IMG/alu-profile.png"  alt="ъглови алуминеви профили" width="35%" height="35%">
     
