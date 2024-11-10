@@ -66,3 +66,4 @@
 
     - [WEB Flash](https://tasmota.github.io/install/)
     - [WLED уеб сървър:](https://github.com/Bacard1/Home-Assistant-Bulgaria/raw/refs/heads/main/Statik/Projekts/Home-Assistant-WLED-SoundReactive/bin/WLEDMM_0.14.0-b15.21_athom_music_esp32_4MB_M.bin)
+        :warning: Използвайте точно този файл, понеже е модификация и работи прекрасно с [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) и в компактивен с всички операционни системи. Не се тревожете за версията тя ще бъде подменена от мен ако има по нова такава.
