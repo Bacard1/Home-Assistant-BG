@@ -99,8 +99,10 @@
 <h3 align="center"><strong>TASMOTA - интеграция в Home Assistant и кракване на устройства</strong></h3>
 
 ![image](Statik/IMG/Andere/украса_002.png)
-### Предимства WLED SoundReactiv:
-- асд
+### Предимствата на TASMOTA:
+- Пълен контрол над устройството.
+- Контролът върху устройството не зависи от връзката му с интернет.
+- Мигновенна реакция през TASMOTA, Home Assistant и Alexa.
   
     <img align="center" src="Statik\Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 
