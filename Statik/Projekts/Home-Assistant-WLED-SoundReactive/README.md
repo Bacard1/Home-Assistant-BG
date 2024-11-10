@@ -69,4 +69,14 @@
         :warning: Използвайте точно този файл, понеже е модификация и работи прекрасно с [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) и в компактивен с всички операционни системи. Не се тревожете за версията тя ще бъде подменена от мен ако има по нова такава.
 
 - **Конфигуриране/Настройки на WLED:**
-    -         
+    - Настройки на Wi-Fi мрежата: тази настройка не е задължителна, въпрос на вкус.
+
+        <img align="center" src="IMG/GIF/WLED-Wi-Fi-config.gif"  alt="WLED-Wi-Fi-config" width="100%" height="100%">
+
+    - Настройки на LED лентата: препройте точно лед диодите, по това се подразбира че всяка една лента трябва да е с еднакъв брой диоди.
+
+        <img align="center" src="IMG/GIF/WLED-LED-config.gif"  alt="WLED-LED-config" width="100%" height="100%">
+
+    - Настройки на микрофонът:
+
+        <img align="center" src="IMG/GIF/WLED-mic-config.gif"  alt="WLED-mic-config" width="100%" height="100%">
