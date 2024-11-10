@@ -73,7 +73,7 @@
 
         <img align="center" src="IMG/GIF/WLED-Wi-Fi-config.gif"  alt="WLED-Wi-Fi-config" width="100%" height="100%">
 
-    - **Настройки на LED лентата:** препройте точно лед диодите, по това се подразбира че всяка една лента трябва да е с еднакъв брой диоди.
+    - **Настройки на LED лентата:** пребройте точно LED диодите, по това се подразбира че всяка една лента трябва да е с еднакъв брой диоди.
 
         <img align="center" src="IMG/GIF/WLED-LED-config.gif"  alt="WLED-LED-config" width="100%" height="100%">
 
