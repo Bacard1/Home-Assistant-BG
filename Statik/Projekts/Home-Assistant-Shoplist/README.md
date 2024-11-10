@@ -100,7 +100,7 @@
   
       ![image](https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/kategorie_card_edit.gif?raw=true)
     
-  - [ТУК](https://github.com/Bacard1/Home-Assistant-Shoplist/tree/main/IMG/shoplist) ще намерите изчерпателна колекция от изображения за вашият списък за пазаруване, разделени по категории.
+  - [ТУК](https://github.com/Bacard1/HomeAssistant-Bulgaria/tree/main/Statik/Projekts/Home-Assistant-Shoplist/IMG) ще намерите изчерпателна колекция от изображения за вашият списък за пазаруване, разделени по категории.
 <br>
 
 ##  Автоматизации:
