@@ -78,3 +78,18 @@
 
 <h1></h1>
 
+<h3 align="center"><strong>WLED SoundReactiv интилигентна цветомузика</strong></h3>
+
+![image](Statik/IMG/Andere/украса_002.png)
+### Предимства WLED SoundReactiv:
+- Мигновенна реакция, недоловима за човешкото око.
+- Автоматична чувствителност на микрофона.
+- Ефтино и енергоспестяващо.
+- WLED мод включващ всички функции на оригиналният Firmware.
+- Web интерфейс, Андроид/МАК приложение, съвместимо с Home Assistent.
+  
+<img align="center" src="Statik\Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif"  alt="WLED SoundReactiv" width="100%" height="90%">
+
+<a href="Statik\Projekts\Home-Assistant-WLED-SoundReactive">
+    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="40%" height="40%">
+</a>
