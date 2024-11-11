@@ -56,6 +56,7 @@
     <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" >
 </div>
 
+
 <a href="Projekts/HomeAssistant-Zigbee-Network">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
@@ -75,6 +76,7 @@
 <div style="text-align: center;">
     <img align="center" src="Statik\GIF\Projekt_shoplist.gif"  alt="Списък за пазаруване" width="100%" height="90%">
 </div>
+
 
 <a href="Projekts\Home-Assistant-Shoplist">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
@@ -97,6 +99,7 @@
     <img align="center" src="Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 </div>
 
+
 <a href="Projekts\Home-Assistant-WLED-SoundReactive">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
@@ -115,6 +118,7 @@
 <div style="text-align: center;">
     <img align="center" src="Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 </div>
+
 
 <a href="Projekts\HASS-Sonoff-BASIC-Tasmota">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
