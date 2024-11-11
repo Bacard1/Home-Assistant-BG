@@ -51,7 +51,7 @@
 <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
 
 <a href="Projekts/HomeAssistant-Zigbee-Network">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%>
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
 </a>
 
 <h1></h1>
