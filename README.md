@@ -1,8 +1,12 @@
-<h1 align="center">Home Assistant България</h1>
+
+<h1 align="center">Home Assistant</h1>
+
 
 По-долу ще представя моя проект "Home Assistant", като ще го разделя на части и ще го представя като отделни мини-проекти.
 В това хранилище ще обясня накратко идеята, целта и предимствата на всеки проект. Ако някой от тях представлява интерес за Вас, можете да последвате връзката към пълния проект под всяко описание.
+
 <br>
+
 <h1 align="center" color="red">Обобщение</h1>
 
 ### Цел на проекта "Home Assistant":
@@ -48,10 +52,12 @@
 - Zigbee устройствата са ефтини.
 - Лесен ъпгрейд при натоварена мрежа.
   
-<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
+<div style="text-align: center;">
+    <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта">
+</div>
 
 <a href="Projekts/HomeAssistant-Zigbee-Network">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта">
 </a>
 
 <h1></h1>
@@ -65,11 +71,13 @@
 - Лесно ориентиране с картини на артикулите.
 - Уведомяване на членовете в домакинството за наличие на нов артикул в списъка.
 - Автоматично изчистване на вече отметнатите артикули.
-  
-<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Projekt_shoplist.gif?raw=true"  alt="Списък за пазаруване" width="100%" height="90%">
+
+<div style="text-align: center;">
+    <img align="center" src="Statik\GIF\Projekt_shoplist.gif"  alt="Списък за пазаруване" width="100%" height="90%">
+</div>
 
 <a href="Projekts\Home-Assistant-Shoplist">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта">
 </a>
 
 <h1></h1>
@@ -85,15 +93,17 @@
 - Web интерфейс, Андроид/МАК приложение, съвместимо с Home Assistent.
 - [Video1](https://youtu.be/L4S17ooFPhY)  [Video2](https://youtu.be/V5HgxFt4hFg)
   
+<div style="text-align: center;">
     <img align="center" src="Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
+</div>
 
 <a href="Projekts\Home-Assistant-WLED-SoundReactive">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта">
 </a>
 
 <h1></h1>
 
-<h3 align="center"><strong>TASMOTA - интеграция в Home Assistant и кракване на устройства</strong></h3>
+<h3 align="center"><strong>TASMOTA - интеграция и устройства</strong></h3>
 
 ![image](Statik/IMG/Andere/украса_002.png)
 ### Предимствата на TASMOTA:
@@ -102,10 +112,12 @@
 - Мигновенна реакция през TASMOTA, Home Assistant и Alexa.
 - Не натоварва интернет мрежата.
   
+<div style="text-align: center;">
     <img align="center" src="Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
+</div>
 
 <a href="Projekts\HASS-Sonoff-BASIC-Tasmota">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта">
 </a>
 
 <h1></h1>
