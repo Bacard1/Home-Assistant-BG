@@ -13,5 +13,5 @@
 
     - Преди свързването, е неоходимо да инсталирате драйварите ["CP2102 drivers:"](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) ["CH342, CH343, CH9102 drivers:"](https://www.wch.cn/downloads/CH343SER_ZIP.html) и ["CH340, CH341 drivers:"](https://www.wch.cn/downloads/CH341SER_ZIP.html). След инсталирането им е необходимо да рестартирате операционната система преди да продължите.
 
-- **Свързване:**     
+- **Свързване:** за да
 
