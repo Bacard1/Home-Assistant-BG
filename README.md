@@ -51,12 +51,7 @@
 <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
 
 <a href="Projekts/HomeAssistant-Zigbee-Network">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="40%" height="40%">
-</a>
-
-
-<a href="https://www.zigbee2mqtt.io/devices/ZBDongle-E.html">
-    <img align="center" src="Statik\Buttons\button-oste-info.png" alt="Още информация" width="40%" height="40%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%>
 </a>
 
 <h1></h1>
