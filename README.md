@@ -57,7 +57,7 @@
 </div>
 
 <a href="Projekts/HomeAssistant-Zigbee-Network">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
 <h1></h1>
@@ -77,7 +77,7 @@
 </div>
 
 <a href="Projekts\Home-Assistant-Shoplist">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
 <h1></h1>
@@ -98,7 +98,7 @@
 </div>
 
 <a href="Projekts\Home-Assistant-WLED-SoundReactive">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
 <h1></h1>
@@ -117,7 +117,7 @@
 </div>
 
 <a href="Projekts\HASS-Sonoff-BASIC-Tasmota">
-    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
 <h1></h1>
