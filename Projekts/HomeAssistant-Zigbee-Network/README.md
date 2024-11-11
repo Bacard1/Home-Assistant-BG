@@ -8,7 +8,7 @@
 
 
     - В този проект беше използван "RaspberryPi 4B 8GB" 🔽:
-    <img align="center" src="../../IMG/Devices/RASP PI 4B.png" width="50%" height="50%">
+    <img align="center" src="../../Statik/IMG/Devices/RASP PI 4B.png" width="50%" height="50%">
 
 
 - "SONOFF Zigbee 3.0 USB Dongle Plus" или друг, който да създава Zigbee мрежата. Ако все още не разполагате с такъв виж двата линка по долу 🔽:
@@ -16,7 +16,7 @@
     - [Aliexpress](https://de.aliexpress.com/item/1005004266559661.html?spm=a2g0o.productlist.main.1.29cfYELkYELkj7&algo_pvid=d6c4c86f-f945-433c-addd-962a0da0c955&algo_exp_id=d6c4c86f-f945-433c-addd-962a0da0c955-0&pdp_npi=4%40dis%21EUR%2138.16%2120.99%21%21%2140.55%2122.30%21%402103890117306177577828936efd34%2112000028571354347%21sea%21DE%21749630241%21X&curPageLogUid=DHGOVitBimE5&utparam-url=scene%3Asearch%7Cquery_from%3A) 
     - В този проект беше използван SONOFF Zigbee 3.0 USB Dongle Plus 🔽:
 
-    <img align="center" src="../../IMG/Devices/Sonoff zigbee3.0 Dongel.png" width="50%" height="50%">
+    <img align="center" src="../../Statik/IMG/Devices/Sonoff zigbee3.0 Dongel.png" width="50%" height="50%">
 
 
 **⚠️ ПРЕПОРАЧИТЕЛНО:** Използвайте  "SONOFF Zigbee 3.0 USB Dongle Plus" със USB удължител. Причината е, че всички Zigbee 3.0 USB Dongle се влияе от работата на хардуера и създава проблеми на мрежата! Ако се колебаете какъв да изберете погледнете линкът по долу. 🔽:
@@ -42,7 +42,7 @@
 <br>
 
 <a href="https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_mosquitto">
-    <img align="center" src="../../IMG/Andere/button ADD-ON ON.svg" >
+    <img align="center" src="../../Statik/Buttons/button ADD-ON ON.svg" >
 </a>
 
 <br>
@@ -93,11 +93,11 @@
     - Натисни бутонът по долу за да добавиш хранилището на Zigbee2MQTT в добавките си 🔽:
 
     <br>
-    <div style="margin-bottom: 50px;">
-        <a href="https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fzigbee2mqtt%2Fhassio-zigbee2mqtt">
-            <img align="center" src="../../IMG/Andere/button ADD ADD-ON REPOSITORY TO MY.svg" >
-        </a>
-    </div>
+
+    <a href="https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fzigbee2mqtt%2Fhassio-zigbee2mqtt">
+    <img align="center" src="../../Statik/Buttons/button ADD ADD-ON REPOSITORY TO MY.svg" >
+    </a>
+
     <br>
 
     - След добавяне на хранилището обновете страницата и ще намерите следното 🔽:
@@ -129,11 +129,11 @@
 
     ⚠️ На "server:" трябва да добавиш същият ИП адрес, който има и Home Assistant 🔼. На "port:" следвай стъпките по картинката по долу  🔽:
 
-    <img align="center" src="../../IMG/GIF/patch_usb_port002.gif">
+    <img align="center" src="../../Statik/GIF/patch_usb_port002.gif">
 
     Запаметете промените! Отметнете стартиране автоматично със системата и стартирайте добавката 🔽:
 
-    <img align="center" src="../../IMG/GIF/Zegbee_save_and_start.gif">    
+    <img align="center" src="../../Statik/GIF/Zegbee_save_and_start.gif">    
 
 
 ### Рестартирайте цялата система, ако добавката не иска да стартира веднага. След рестарта тя ще стартира автоматично.

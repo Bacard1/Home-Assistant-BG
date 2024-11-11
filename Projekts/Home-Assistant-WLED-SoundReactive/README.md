@@ -85,7 +85,7 @@
 
 - **Home-Assistant integration:** 
 <a href="https://my.home-assistant.io/redirect/config_flow_start?domain=wled">
-    <img align="center" src="../../IMG/Andere/button ADD INTEGRATION TO.svg" alt="Още информация" width="40%" height="40%">
+    <img align="center" src="..\..\Statik\Buttons\button ADD INTEGRATION TO.svg" alt="Още информация" width="40%" height="40%">
 </a>
 
 <br>
