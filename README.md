@@ -50,13 +50,13 @@
   
 <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
 
-<a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
-    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png" alt="Към проекта" width="40%" height="40%">
+<a href="Projekts/HomeAssistant-Zigbee-Network">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="40%" height="40%">
 </a>
 
 
 <a href="https://www.zigbee2mqtt.io/devices/ZBDongle-E.html">
-    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BE%D1%89%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.png" alt="Още информация" width="40%" height="40%">
+    <img align="center" src="Statik\Buttons\button-oste-info.png" alt="Още информация" width="40%" height="40%">
 </a>
 
 <h1></h1>
@@ -72,8 +72,8 @@
   
 <img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Projekt_shoplist.gif?raw=true"  alt="Списък за пазаруване" width="100%" height="90%">
 
-<a href="https://github.com/Bacard1/HomeAssistant-Bulgaria/tree/main/Statik/Projekts/Home-Assistant-Shoplist">
-    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="30%" height="30%">
+<a href="Projekts\Home-Assistant-Shoplist">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
 </a>
 
 <h1></h1>
@@ -92,7 +92,7 @@
     <img align="center" src="Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 
 <a href="Projekts\Home-Assistant-WLED-SoundReactive">
-    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
 </a>
 
 <h1></h1>
@@ -109,7 +109,7 @@
     <img align="center" src="Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 
 <a href="Projekts\HASS-Sonoff-BASIC-Tasmota">
-    <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="30%" height="30%">
+    <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="30%">
 </a>
 
 <h1></h1>
