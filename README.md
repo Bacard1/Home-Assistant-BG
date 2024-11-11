@@ -48,7 +48,7 @@
 - Zigbee устройствата са ефтини.
 - Лесен ъпгрейд при натоварена мрежа.
   
-<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
+<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Zigbee_Network.gif?raw=true"  alt="Към проекта" width="100%" height="90%">
 
 <a href="Statik/Projekts/HomeAssistant-Zigbee-Network">
     <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png" alt="Към проекта" width="40%" height="40%">
@@ -70,7 +70,7 @@
 - Уведомяване на членовете в домакинството за наличие на нов артикул в списъка.
 - Автоматично изчистване на вече отметнатите артикули.
   
-<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/IMG/GIF/Projekt_shoplist.gif?raw=true"  alt="Списък за пазаруване" width="100%" height="90%">
+<img align="center" src="https://github.com/Bacard1/HomeAssistant-Bulgaria/blob/main/Statik/GIF/Projekt_shoplist.gif?raw=true"  alt="Списък за пазаруване" width="100%" height="90%">
 
 <a href="https://github.com/Bacard1/HomeAssistant-Bulgaria/tree/main/Statik/Projekts/Home-Assistant-Shoplist">
     <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="30%" height="30%">
@@ -89,9 +89,9 @@
 - Web интерфейс, Андроид/МАК приложение, съвместимо с Home Assistent.
 - [Video1](https://youtu.be/L4S17ooFPhY)  [Video2](https://youtu.be/V5HgxFt4hFg)
   
-    <img align="center" src="Statik\Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
+    <img align="center" src="Projekts\Home-Assistant-WLED-SoundReactive\IMG\WLED SaundReactive.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 
-<a href="Statik\Projekts\Home-Assistant-WLED-SoundReactive">
+<a href="Projekts\Home-Assistant-WLED-SoundReactive">
     <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="30%" height="30%">
 </a>
 
@@ -106,9 +106,9 @@
 - Мигновенна реакция през TASMOTA, Home Assistant и Alexa.
 - Не натоварва интернет мрежата.
   
-    <img align="center" src="Statik\Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
+    <img align="center" src="Projekts\HASS-Sonoff-BASIC-Tasmota\IMG\TASMOTA.gif"  alt="WLED SoundReactiv" width="100%" height="100%">
 
-<a href="Statik\Projekts\HASS-Sonoff-BASIC-Tasmota">
+<a href="Projekts\HASS-Sonoff-BASIC-Tasmota">
     <img align="center" src="https://github.com/Bacard1/Home-Assistant-Bulgaria/blob/main/Statik/IMG/Andere/button_%D0%BA%D1%8A%D0%BC_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png?raw=true" alt="Към проекта" width="30%" height="30%">
 </a>
 
