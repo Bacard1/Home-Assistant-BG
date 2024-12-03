@@ -58,7 +58,7 @@
 
 <p></p>
 
-<a href="Projekts/HomeAssistant-Zigbee-Network">
+<a href="Projekts/Zigbee-Network">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
@@ -80,7 +80,7 @@
 
 <p></p>
 
-<a href="Projekts\Home-Assistant-Shoplist">
+<a href="Projekts\Shoplist">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
@@ -103,7 +103,7 @@
 
 <p></p>
 
-<a href="Projekts\Home-Assistant-WLED-SoundReactive">
+<a href="Projekts\WLED-SoundReactive">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
@@ -124,7 +124,7 @@
 
 <p></p>
 
-<a href="Projekts\HASS-Sonoff-BASIC-Tasmota">
+<a href="Projekts\TASMOTA">
     <img align="center" src="Statik\Buttons\button-kam-proekt.png" alt="Към проекта" width="30%" height="15%">
 </a>
 
