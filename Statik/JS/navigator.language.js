@@ -1,5 +1,6 @@
 function setUserLanguage() {
     let lang = navigator.language || navigator.userLanguage;
+    console.log(lang);  // Тук се извежда стойността на езика в конзолата
     fetch("/api/states/input_text.user_language", {
         method: "POST",
         headers: {
